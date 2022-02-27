@@ -1,2 +1,2 @@
 # jimp
-Script para otimização de imagens em Gulp 
+ :scissors: Script para otimização de imagens em Gulp 

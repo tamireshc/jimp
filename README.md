@@ -1,2 +1,2 @@
-# <h1>jimp</h1>
-Otimizador de  imagens
+# jimp
+Script para otimização de imagens em Gulp 
